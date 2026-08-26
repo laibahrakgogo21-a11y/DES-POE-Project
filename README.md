@@ -6,7 +6,7 @@ How this repository is organized
 All PoE documents and evidence are in the `/PoE/` folder.
 
 Start here
-- /PoE/00_Cover Page.pdf
+- Cover Page
 - /PoE/01_Table of Contents.pdf
   
  Evidence summary (Modules 1–12)
